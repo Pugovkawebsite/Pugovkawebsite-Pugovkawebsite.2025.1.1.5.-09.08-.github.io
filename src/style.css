@@ -1,0 +1,15 @@
+html, body, * {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+#app {
+  margin: 0 auto;
+  overflow: hidden;  
+}
+.app {
+  width: 1198px;
+  display: flex;
+  justify-content: start;
+  overflow: hidden;
+}
